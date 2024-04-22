@@ -1,0 +1,17 @@
+{
+  "name": "ws-nodejs",
+  "version": "1.0.0",
+  "description": "This workshop is an introduction to NodeJS for Epitech BDX students. It is meant for beginners and will cover the basics of NodeJS and the JavaScript language.",
+  "main": "index.js",
+  "scripts": {
+    "ex01": "node src/ex01/index.js",
+    "ex02": "node src/ex02/index.js",
+    "ex03": "node src/ex03/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
